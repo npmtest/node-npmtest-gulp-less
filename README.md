@@ -1,4 +1,7 @@
-# test coverage for  [gulp-less (v3.3.0)](https://github.com/plus3network/gulp-less#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-less.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-less) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-less.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-less)
+# npmtest-gulp-less
+
+#### test coverage for  [gulp-less (v3.3.0)](https://github.com/plus3network/gulp-less#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-less.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-less) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-less.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-less)
+
 #### Less for Gulp
 
 [![NPM](https://nodei.co/npm/gulp-less.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-less)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-less/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-less/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-less/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-less/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-gulp-less/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-less/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-less/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-less/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-gulp-less/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-less/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-gulp-less/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-less/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-less/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-less/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-less/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-less/build/apidoc.html)
 
