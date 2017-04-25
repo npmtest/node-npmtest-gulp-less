@@ -1,6 +1,6 @@
 # npmtest-gulp-less
 
-#### test coverage for  [gulp-less (v3.3.0)](https://github.com/plus3network/gulp-less#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-less.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-less) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-less.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-less)
+#### basic test coverage for  [gulp-less (v3.3.0)](https://github.com/plus3network/gulp-less#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-less.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-less) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-less.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-less)
 
 #### Less for Gulp
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-less/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-less/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-less/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-less/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-less/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-less/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-less/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-less/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-less/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-less/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-less/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-less/build/coverage.html/index.html)
 
@@ -95,7 +95,8 @@
     "scripts": {
         "test": "jshint index.js && node_modules/.bin/mocha"
     },
-    "version": "3.3.0"
+    "version": "3.3.0",
+    "bin": {}
 }
 ```
 
